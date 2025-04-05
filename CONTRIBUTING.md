@@ -1,4 +1,4 @@
-# Contributing to the Linera protocol
+## Contributing to the Linera protocol
 
 ## Issues
 
